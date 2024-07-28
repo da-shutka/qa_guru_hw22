@@ -8,6 +8,7 @@ import org.junit.jupiter.api.Tags;
 import org.junit.jupiter.api.Test;
 import pages.BercutPage;
 
+@Tag("bercut_auto")
 public class BercutTests extends TestBase {
 
     BercutPage bercutPage = new BercutPage();
